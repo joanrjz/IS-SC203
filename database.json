@@ -1,0 +1,10 @@
+{
+  "computadoras": [
+    { "id": 1, "software": "Visual Studio Code, Office 365, Google Chrome, VLC" },
+    { "id": 2, "software": "Python, AutoCAD, Office 365, WinRAR" },
+    { "id": 3, "software": "Java, Eclipse, NetBeans, Google Chrome" },
+    { "id": 4, "software": "Photoshop, Illustrator, Office 365, VLC" },
+    { "id": 5, "software": "Matlab, SPSS, Office 365, Python" }
+    /* ... hasta llegar a la PC 31 ... */
+  ]
+}
