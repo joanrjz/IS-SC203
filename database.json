@@ -5,6 +5,5 @@
     { "id": 3, "software": "Java, Eclipse, NetBeans, Google Chrome" },
     { "id": 4, "software": "Photoshop, Illustrator, Office 365, VLC" },
     { "id": 5, "software": "Matlab, SPSS, Office 365, Python" }
-    /* ... hasta llegar a la PC 31 ... */
   ]
 }
