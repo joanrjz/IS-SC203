@@ -1,9 +1,35 @@
 {
   "computadoras": [
-    { "id": 1, "software": "Visual Studio Code, Office 365, Google Chrome, VLC" },
-    { "id": 2, "software": "Python, AutoCAD, Office 365, WinRAR" },
-    { "id": 3, "software": "Java, Eclipse, NetBeans, Google Chrome" },
-    { "id": 4, "software": "Photoshop, Illustrator, Office 365, VLC" },
-    { "id": 5, "software": "Matlab, SPSS, Office 365, Python" }
+    { "id": 1, "software": "Adobe CC, Harmony Toon Boom, Visual Studio Code, Office 365, Google Chrome, VLC" },
+    { "id": 2, "software": "Adobe CC, Harmony Toon Boom, Python, AutoCAD, Office 365, WinRAR" },
+    { "id": 3, "software": "Adobe CC, Harmony Toon Boom, Java, Eclipse, NetBeans, Google Chrome" },
+    { "id": 4, "software": "Adobe CC, Harmony Toon Boom, Photoshop, Illustrator, Office 365, VLC" },
+    { "id": 5, "software": "Adobe CC, Harmony Toon Boom, Matlab, SPSS, Office 365, Python" }
+    { "id": 6, "software": "Adobe CC, Visual Studio Code, Office 365, Google Chrome, VLC" },
+    { "id": 7, "software": "Adobe CC, Python, AutoCAD, Office 365, WinRAR" },
+    { "id": 8, "software": "Adobe CC, Java, Eclipse, NetBeans, Google Chrome" },
+    { "id": 9, "software": "Adobe CC, Harmony Toon Boom, Photoshop, Illustrator, Office 365, VLC" },
+    { "id": 10, "software": "Adobe CC, Harmony Toon Boom, Matlab, SPSS, Office 365, Python" }
+    { "id": 11, "software": "Adobe CC, Harmony Toon Boom, Visual Studio Code, Office 365, Google Chrome, VLC" },
+    { "id": 12, "software": "Adobe CC, Harmony Toon Boom, Python, AutoCAD, Office 365, WinRAR" },
+    { "id": 13, "software": "Adobe CC, Harmony Toon Boom, Java, Eclipse, NetBeans, Google Chrome" },
+    { "id": 14, "software": "Adobe CC, Photoshop, Illustrator, Office 365, VLC" },
+    { "id": 15, "software": "Adobe CC, Matlab, SPSS, Office 365, Python" }
+    { "id": 16, "software": "Adobe CC, Harmony Toon Boom, Visual Studio Code, Office 365, Google Chrome, VLC" },
+    { "id": 17, "software": "Adobe CC, Python, AutoCAD, Office 365, WinRAR" },
+    { "id": 18, "software": "Adobe CC, Harmony Toon Boom, Java, Eclipse, NetBeans, Google Chrome" },
+    { "id": 19, "software": "Adobe CC, Photoshop, Illustrator, Office 365, VLC" },
+    { "id": 20, "software": "Adobe CC, Harmony Toon Boom, Matlab, SPSS, Office 365, Python" }
+    { "id": 21, "software": "Visual Studio Code, Office 365, Google Chrome, VLC" },
+    { "id": 22, "software": "Harmony Toon Boom, Python, AutoCAD, Office 365, WinRAR" },
+    { "id": 23, "software": "Harmony Toon Boom, Java, Eclipse, NetBeans, Google Chrome" },
+    { "id": 24, "software": "Harmony Toon Boom, Photoshop, Illustrator, Office 365, VLC" },
+    { "id": 25, "software": "Matlab, SPSS, Office 365, Python" }
+    { "id": 26, "software": "Harmony Toon Boom, Visual Studio Code, Office 365, Google Chrome, VLC" },
+    { "id": 27, "software": "Python, AutoCAD, Office 365, WinRAR" },
+    { "id": 28, "software": "Harmony Toon Boom, Java, Eclipse, NetBeans, Google Chrome" },
+    { "id": 29, "software": "Photoshop, Illustrator, Office 365, VLC" },
+    { "id": 30, "software": "Harmony Toon Boom, Matlab, SPSS, Office 365, Python" }
+
   ]
 }
